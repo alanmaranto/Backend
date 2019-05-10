@@ -1,0 +1,20 @@
+{
+  "name": "evaluacion-final",
+  "version": "1.0.0",
+  "description": "este es el proyecto final de backedn",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "alanmaranto",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "underscore": "^1.9.1"
+  }
+}
